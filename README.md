@@ -1,4 +1,4 @@
-# SOIoTMLSecurity
+# Security and Machine Learning Adoption in IoT: A Preliminary Study of IoT Developer Discussions
 ## StackOverflow IoT dataset: 
 collected from IoT related 53K SO posts. List of all tags used in the IoT data collection: The Stack Overflow September 2019 data dump is used. The dump can be downlaoded from archive.org
 
